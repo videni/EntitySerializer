@@ -6,11 +6,11 @@
     "license": "MIT",
     "require": {
         "php": "7.1.*",
-        "doctrine/common": "2.5.*",
-        "doctrine/orm": "2.5.*",
-        "symfony/dependency-injection": "2.8.*",
-        "symfony/form": "2.8.*",
-        "oro/doctrine-utils": "dev-master"
+        "doctrine/common": "^2.5",
+        "doctrine/orm": "^2.5",
+        "symfony/dependency-injection": "2.8.*|^4.1",
+        "symfony/form": "2.8.*|^4.1",
+        "oro/doctrine-utils": "^1.0@dev"
     },
     "require-dev": {
         "oro/test-utils": "dev-master"
